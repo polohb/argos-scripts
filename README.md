@@ -23,3 +23,11 @@ To bypass the prompted password be sure that `/etc/sudoers.d/` is added in the _
 ```
 
 
+## mpris-spotify.1s.sh
+
+Based on [argos-mpris](https://github.com/giedriusStan/argos-mpris)
+
+Work only with spotify : 
+* Show Artist and Song name in the system tray.
+* Control playback via menu options upon clicking the tray icon.
+
