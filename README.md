@@ -1,6 +1,11 @@
 # argos-scripts
 Scripts for [Argos](https://github.com/p-e-w/argos) gnome-shell extension.
 
+Be sure to copy script in `~/.config/argos/` and set them executable : `chmod +x myscript.sh`
+
+To change the frequency just rename the script as explain in the [argos file-name format doc](https://github.com/p-e-w/argos#filename-format)
+
+
 ## vpn-check.5s.sh
 Show the vpn status. 
 
