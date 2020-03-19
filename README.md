@@ -39,3 +39,8 @@ Display current kubectl context in bar.
 Also provide a menu to switch context.
 
 Required : `kubectl` command need to be installed
+
+
+## screenshot.sh
+
+Quick menu with shortcut to gnome-screenshot in interactive mode.
