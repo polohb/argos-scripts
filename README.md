@@ -31,3 +31,11 @@ Work only with spotify :
 * Show Artist and Song name in the system tray.
 * Control playback via menu options upon clicking the tray icon.
 
+
+## kubectl-ctx.10s.sh
+
+Display current kubectl context in bar.
+
+Also provide a menu to switch context.
+
+Required : `kubectl` command need to be installed
