@@ -44,3 +44,9 @@ Required : `kubectl` command need to be installed
 ## screenshot.sh
 
 Quick menu with shortcut to gnome-screenshot in interactive mode.
+
+
+## uptime.sh
+
+Quick and ugly script to show uptime info in the bar.
+
